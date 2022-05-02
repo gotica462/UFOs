@@ -18,5 +18,3 @@ After writing the request in the filters (It could be one field or it could be m
 
 As you can see, now we have more filters to look for more information on our webpage. However, one of the drawbacks is that the information put on the filtes is case sensitive, so you would need to put the information exactly as is dislpayed on the web.
 
-
-
